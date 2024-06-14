@@ -8,7 +8,7 @@ Implementing a system to unlock a door using a password.
 * Drivers:
  GPIO, LCD, Keypad, Timer, UART, I2C, EEPROM, PWM, Buzzer and DC-motor
 
-## Human Machine Interface (HMI_ECU):
+## HMI_ECU (Human Machine Interface):
  * it is responsible for interaction with the user. It takes inputs through a keypad and displays messages on the LCD.  
  * it contains:  
    * In the Hardware Abstraction Layer (HAL): LCD and Keypad drivers.  
